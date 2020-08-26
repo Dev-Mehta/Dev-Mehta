@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 </p>
-### Blogs posts
+<h3>Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
