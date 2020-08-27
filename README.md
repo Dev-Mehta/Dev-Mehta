@@ -19,6 +19,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mehta&show_icons=true" alt="dev-mehta" /></p>
 <h3>Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
+- [Original post can be found here](https://medium.com/@devbmehta04/original-post-can-be-found-here-ad5412ac8119?source=rss-63ef94603e35------2)
+- [HTML Tutorial — Part 1- Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-1-web-development-for-dummies-f8aa5abd80de?source=rss-63ef94603e35------2)
+- [How the Web Works Under the Hood?](https://medium.com/dev-mehta/how-the-web-works-under-the-hood-40ec93410d94?source=rss-63ef94603e35------2)
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
