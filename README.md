@@ -1,7 +1,7 @@
-<h1 align="center">नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:</h1>
-<h3 align="center">A Full Stack Web Developer and Django Enthusiast</h3>
+# नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
+## A Full Stack Web Developer and Django Enthusiast
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dev-mehta" alt="dev-mehta" /> </p>
+### [Image](https://komarev.com/ghpvc/?username=dev-mehta)
 
 ### - 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
 
