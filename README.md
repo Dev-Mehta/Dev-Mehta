@@ -5,7 +5,7 @@
 
 ### - 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
 
-### - 🌱 I’m currently learning **React Native**
+### - 🌱 I’m currently learning **Vue JS and Django Rest Framework**
 
 ### - 📝 I regulary write articles on [https://instagram.com/djangostaan](https://instagram.com/djangostaan)
 
