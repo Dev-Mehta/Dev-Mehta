@@ -1,7 +1,7 @@
 # नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
 ## A Full Stack Web Developer and Django Enthusiast
 
-### [Image](https://komarev.com/ghpvc/?username=dev-mehta)
+### ![Image](https://komarev.com/ghpvc/?username=dev-mehta)
 
 ### - 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
 
