@@ -14,7 +14,7 @@
 ### - 📫 How to reach me **https://instagram.com/djangostaan**
 
 ### - ⚡ Fun fact **Chai over Coffee**
-[![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)](https://github.com/anuraghazra/github-readme-stats)
+![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
 - [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
 - [Original post can be found here](https://medium.com/@devbmehta04/original-post-can-be-found-here-ad5412ac8119?source=rss-63ef94603e35------2)
