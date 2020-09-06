@@ -1,19 +1,15 @@
 # नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
-## A Full Stack Web Developer and Django Enthusiast
+A Full Stack Web Developer and Django Enthusiast
 
-### ![Image](https://komarev.com/ghpvc/?username=dev-mehta)
+![Image](https://komarev.com/ghpvc/?username=dev-mehta)
 
-### - 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
+- 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
+- 🌱 I’m currently learning **Vue JS and Django Rest Framework**
+- 📝 I regulary write articles on [https://instagram.com/djangostaan](https://instagram.com/djangostaan)
+- 💬 Ask me about **Django, Python and Web**
+- 📫 How to reach me **https://instagram.com/djangostaan**
+- ⚡ Fun fact **Chai over Coffee**
 
-### - 🌱 I’m currently learning **Vue JS and Django Rest Framework**
-
-### - 📝 I regulary write articles on [https://instagram.com/djangostaan](https://instagram.com/djangostaan)
-
-### - 💬 Ask me about **Django, Python and Web**
-
-### - 📫 How to reach me **https://instagram.com/djangostaan**
-
-### - ⚡ Fun fact **Chai over Coffee**
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
 - [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
