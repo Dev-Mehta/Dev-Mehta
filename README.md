@@ -3,13 +3,25 @@ A Full Stack Web Developer and Django Enthusiast
 
 ![Image](https://komarev.com/ghpvc/?username=dev-mehta)
 
-- 🔭 I’m currently working on [AskaDev](https://github.com/Dev-Mehta/AskaDev)
-- 🌱 I’m currently learning **Vue JS and Django Rest Framework**
-- 📝 I regulary write articles on [https://instagram.com/djangostaan](https://instagram.com/djangostaan)
-- 💬 Ask me about **Django, Python and Web**
-- 📫 How to reach me **https://instagram.com/djangostaan**
-- ⚡ Fun fact **Chai over Coffee**
-
+```python
+Dev_Mehta = {
+    code: ["Python", "JavaScript", "Java", "C++", "C"],
+    askMeAbout: ["Web Dev", "Tech", "Django"],
+    technologies: {
+        mobileApp: ["Android App"], # Still learning
+        frontEnd: {
+            js: ["Vue"],
+            css: ["vuesax", "bootstrap"]
+        },
+        backEnd: {
+            python: ["django", "flask"]
+        },
+        databases: ["PostgreSQL", "MySql", "sqlite"],
+        misc: ["selenium", "open-cv", "Pillow"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 
 <!--START_SECTION:waka-->
