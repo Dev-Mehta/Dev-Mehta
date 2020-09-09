@@ -25,9 +25,9 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -70,15 +70,15 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 50 mins        ███████████████████░░░░░░   75.59% 
-HTML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   22.77% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+HTML                     2 hrs 53 mins       ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.86% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.0%
+Windows                  4 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
