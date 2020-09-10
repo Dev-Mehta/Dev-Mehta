@@ -25,15 +25,15 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 219 Contributions in the Year 2020
+> 🏆 220 Contributions in the Year 2020
  > 
-> 📦 20.4 kB Used in Github's Storage 
+> 📦 21.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,15 +70,16 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 53 mins       ██████████████░░░░░░░░░░░   58.33% 
-Python                   2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.86% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+HTML                     5 hrs 17 mins       ██████████████░░░░░░░░░░░   56.88% 
+Python                   3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.95% 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 56 mins       █████████████████████████   100.0%
+Windows                  9 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
