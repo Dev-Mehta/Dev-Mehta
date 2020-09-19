@@ -1,8 +1,6 @@
 # नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
-![Image](https://komarev.com/ghpvc/?username=dev-mehta)
-
 ```python
 Dev_Mehta = {
     code: ["Python", "JavaScript", "Java", "C++", "C"],
@@ -25,7 +23,7 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Image](https://komarev.com/ghpvc/?username=dev-mehta)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
