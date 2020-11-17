@@ -31,7 +31,7 @@ Dev_Mehta = {
 
 > 🏆 273 Contributions in the Year 2020
  > 
-> 📦 27.2 kB Used in Github's Storage 
+> 📦 27.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
