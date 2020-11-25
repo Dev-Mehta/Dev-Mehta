@@ -90,7 +90,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Dev-Mehta/Dev-Mehta/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
