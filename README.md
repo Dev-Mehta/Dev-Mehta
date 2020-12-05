@@ -23,19 +23,19 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 273 Contributions in the Year 2020
+> 🏆 275 Contributions in the Year 2020
  > 
-> 📦 27.1 kB Used in Github's Storage 
+> 📦 29.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories
+> 📜 12 Public Repositories
  > 
 > 🔑 8 Private Repositories 
 
@@ -81,9 +81,9 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████████░░░░░░░░░░░   58.33% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Python                   7 repos             █████████████░░░░░░░░░░░░   53.85% 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
 
