@@ -25,7 +25,7 @@ Dev_Mehta = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -68,13 +68,14 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      2 hrs 34 mins       ███████████████░░░░░░░░░░   62.01% 
+Java                     1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.99%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           4 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
