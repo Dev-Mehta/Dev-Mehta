@@ -68,14 +68,13 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     12 mins             ████████████████████░░░░░   80.63% 
-XML                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
