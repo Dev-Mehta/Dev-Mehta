@@ -35,7 +35,7 @@ Dev_Mehta = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
