@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: Dev-Mehta/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
