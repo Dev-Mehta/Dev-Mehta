@@ -23,19 +23,19 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116113%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696678%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**![Cat Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f431.png)My Github Data** 
 
-> 🏆 9 Contributions in the Year 2021
+> ![Trophy Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png) 9 Contributions in the Year 2021
  > 
-> 📦 54.7 kB Used in Github's Storage 
+> ![Cube Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png) 54.7 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> ![Dont Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png) Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> ![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png) 14 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> ![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f511.png) 7 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -46,7 +46,7 @@ Dev_Mehta = {
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+![Calendar Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png) **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
@@ -60,10 +60,10 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png) **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+![Watch Emoji](https://github.githubassets.com/images/icons/emoji/unicode/231a.png) Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 XML                      58 mins             ███████████████████░░░░░░   78.24% 
