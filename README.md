@@ -23,47 +23,47 @@ Dev_Mehta = {
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696678%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116113%20lines%20of%20code-blue)
 
-**![Cat Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f431.png)My Github Data** 
+**🐱 My Github Data** 
 
-> ![Trophy Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png) 9 Contributions in the Year 2021
+> 🏆 15 Contributions in the Year 2021
  > 
-> ![Cube Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png) 54.7 kB Used in Github's Storage 
+> 📦 54.7 kB Used in Github's Storage 
  > 
-> ![Dont Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png) Not Opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> ![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png) 14 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> ![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f511.png) 7 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-🌆 Daytime    105 commits    ██████████░░░░░░░░░░░░░░░   43.03% 
-🌃 Evening    116 commits    ████████████░░░░░░░░░░░░░   47.54% 
+🌞 Morning    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
+🌆 Daytime    107 commits    ███████████░░░░░░░░░░░░░░   43.5% 
+🌃 Evening    116 commits    ███████████░░░░░░░░░░░░░░   47.15% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-![Calendar Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png) **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-Wednesday    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
-Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-Friday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+Wednesday    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.54% 
+Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
+Friday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.92% 
+Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
 
 ```
 
 
-![Transcript Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png) **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-![Watch Emoji](https://github.githubassets.com/images/icons/emoji/unicode/231a.png) Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 XML                      58 mins             ███████████████████░░░░░░   78.24% 
