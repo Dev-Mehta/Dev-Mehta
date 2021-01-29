@@ -27,15 +27,15 @@ Dev_Mehta = {
 
 **🐱 My Github Data** 
 
-> 🏆 18 Contributions in the Year 2021
+> 🏆 19 Contributions in the Year 2021
  > 
-> 📦 54.7 kB Used in Github's Storage 
+> 📦 42.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -84,12 +84,12 @@ Windows                  6 hrs 1 min         ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in HTML** 
 
 ```text
-Python                   6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+HTML                     5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
+Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
 
 ```
 
