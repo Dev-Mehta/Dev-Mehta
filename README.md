@@ -27,13 +27,13 @@ Dev_Mehta = {
 
 **🐱 My Github Data** 
 
-> 🏆 19 Contributions in the Year 2021
+> 🏆 18 Contributions in the Year 2021
  > 
 > 📦 43.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
