@@ -20,7 +20,7 @@ Dev_Mehta = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
-![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true)
+![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117547%20lines%20of%20code-blue)
