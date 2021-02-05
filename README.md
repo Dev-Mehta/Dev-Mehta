@@ -1,23 +1,28 @@
 # नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
-```python
-Dev_Mehta = {
-    code: ["Python", "JavaScript", "Java", "C++", "C"],
-    askMeAbout: ["Web Dev", "Tech", "Django"],
-    technologies: {
-        mobileApp: ["Android App"], # Still learning
-        frontEnd: {
-            js: ["Vue"],
-            css: ["vuesax", "bootstrap"]
-        },
-        backEnd: {
-            python: ["django", "flask"]
-        },
-        databases: ["PostgreSQL", "MySql", "sqlite"],
-        misc: ["selenium", "open-cv", "Pillow"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+```kotlin
+package com.github.devmehta.profile
+
+import universe.earth.species.Human
+import universe.earth.species.Human.Brain
+
+class Dev: Human(val name: String="Dev Mehta",
+    val traits = arrayOf("FullStack Web Developer", "Android Developer")){
+    val brain: Brain? = null
+    init {
+        val pronouns: String = "He/Him"
+        val canCodeIn = arrayOf("Python", "Java", "Kotlin", "C++", "C", "JavaScript")
+        val askMeAbout = arrayOf("Web Development", "Android Apps", "Django")
+        val technologies = HashMap<String, Array<String>>()
+        technologies.put("mobileApps", arrayOf("Kotlin", "Java", "Django APIs"))
+        technologies.put("frontendWebDevelopment", arrayOf("bootstrap", "vuesax"))
+        technologies.put("backendWebDevelopment", arrayOf("django", "flask"))
+        technologies.put("databases", arrayOf("PostgreSQL", "MySQL", "Oracle", "SQLite3"))
+        technologies.put("miscellaneous", arrayOf("Selenium", "OpenCV", "Figma", "Adobe XD", "Canva"))
+
+        println("Fun fact: There are 2 ways to write error-free programs, only the 3rd one works")
+    }
 }
 ```
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
