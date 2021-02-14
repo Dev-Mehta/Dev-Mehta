@@ -71,17 +71,16 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 11 mins       █████████████████████░░░░   85.63% 
-XML                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TejasviniKotlin          2 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
