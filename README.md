@@ -110,6 +110,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
 - [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
 - [HTML Tutorial — Part 1- Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-1-web-development-for-dummies-f8aa5abd80de?source=rss-63ef94603e35------2)
