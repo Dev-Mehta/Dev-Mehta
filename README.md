@@ -113,6 +113,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [How I Created My Blog with Gatsby.js?](https://medium.com/dev-mehta/how-i-created-my-blog-with-gatsby-js-53ae96cfa821?source=rss-63ef94603e35------2)
+- [Introduction to Micro Web Framework Flask](https://medium.com/dev-mehta/introduction-to-micro-web-framework-flask-b5ec38cc2e6e?source=rss-63ef94603e35------2)
 - [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
 - [HTML Tutorial — Part 1- Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-1-web-development-for-dummies-f8aa5abd80de?source=rss-63ef94603e35------2)
 - [How the Web Works Under the Hood?](https://medium.com/dev-mehta/how-the-web-works-under-the-hood-40ec93410d94?source=rss-63ef94603e35------2)
