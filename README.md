@@ -114,11 +114,11 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
-- [Introduction to Python a masterclass for](https://devbmehta04.medium.com/introduction-to-python-a-masterclass-for-83db7441659b?source=rss-63ef94603e35------2)
-- [How I Created My Blog with Gatsby.js?](https://medium.com/dev-mehta/how-i-created-my-blog-with-gatsby-js-53ae96cfa821?source=rss-63ef94603e35------2)
-- [Introduction to Micro Web Framework Flask](https://medium.com/dev-mehta/introduction-to-micro-web-framework-flask-b5ec38cc2e6e?source=rss-63ef94603e35------2)
-- [HTML Tutorial — Part 2 — Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-2-web-development-for-dummies-2ec88106831a?source=rss-63ef94603e35------2)
-- [HTML Tutorial — Part 1- Web Development for Dummies](https://medium.com/dev-mehta/html-tutorial-part-1-web-development-for-dummies-f8aa5abd80de?source=rss-63ef94603e35------2)
+- [Day #1 of Learning DSA - Here is What I Learned](https://simplifiedweb.netlify.app/day-1-of-learning-dsa-here-is-what-i-learned/)
+- [How to Work Like Elon Musk? Get More Things Done](https://simplifiedweb.netlify.app/how-to-work-like-elon-musk-get-more-things-done/)
+- [Namespacing, Variable Scopes and File Operation in Python](https://simplifiedweb.netlify.app/namespacing-variable-scopes-and-file-operation-in-python/)
+- [Learn How Blockchains work by building one of your own with Python](https://simplifiedweb.netlify.app/learn-blockchain-by-building-one-of-your-own-with-python/)
+- [Operators, Control Flow, and Functions in Python - Python Basics Masterclass Continued](https://simplifiedweb.netlify.app/operators-control-flow-and-functions-in-python-python-basics-masterclass-continued)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 <a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
