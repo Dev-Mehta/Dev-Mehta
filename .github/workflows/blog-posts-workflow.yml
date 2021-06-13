@@ -2,7 +2,7 @@ name: Simplified Web blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '* * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
