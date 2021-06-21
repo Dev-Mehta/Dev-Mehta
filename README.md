@@ -115,11 +115,11 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [Make your First Game With Python - Rock, Paper, Scissors](https://simplifiedweb.netlify.app/make-your-first-game-with-python-rock-paper-scissors/)
 - [Day #1 of Learning DSA - Here is What I Learned](https://simplifiedweb.netlify.app/day-1-of-learning-dsa-here-is-what-i-learned/)
 - [How to Work Like Elon Musk? Get More Things Done](https://simplifiedweb.netlify.app/how-to-work-like-elon-musk-get-more-things-done/)
 - [Namespacing, Variable Scopes and File Operation in Python](https://simplifiedweb.netlify.app/namespacing-variable-scopes-and-file-operation-in-python/)
 - [Learn How Blockchains work by building one of your own with Python](https://simplifiedweb.netlify.app/learn-blockchain-by-building-one-of-your-own-with-python/)
-- [Operators, Control Flow, and Functions in Python - Python Basics Masterclass Continued](https://simplifiedweb.netlify.app/operators-control-flow-and-functions-in-python-python-basics-masterclass-continued)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 <a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
