@@ -1,6 +1,8 @@
 # नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
+Currently working on [#100DaysOfCode](https://github.com/Dev-Mehta/100DaysOfCode/)
+
 ```kotlin
 package com.github.devmehta.profile
 
