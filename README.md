@@ -19,7 +19,7 @@ class Dev: Human(val name: String="Dev Mehta",
         val askMeAbout = arrayOf("Web Development", "Android Apps", "Django")
         val technologies = HashMap<String, Array<String>>()
         technologies.put("mobileApps", arrayOf("Kotlin", "Java", "Django APIs"))
-        technologies.put("frontendWebDevelopment", arrayOf("bootstrap", "vuesax"))
+        technologies.put("frontendWebDevelopment", arrayOf("bootstrap", "React.js", "tailwindcss"))
         technologies.put("backendWebDevelopment", arrayOf("django", "flask"))
         technologies.put("databases", arrayOf("PostgreSQL", "MySQL", "Oracle", "SQLite3"))
         technologies.put("miscellaneous", arrayOf("Selenium", "OpenCV", "Figma", "Adobe XD", "Canva"))
