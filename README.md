@@ -10,7 +10,8 @@ import universe.earth.species.Human
 import universe.earth.species.Human.Brain
 
 class Dev: Human(val name: String="Dev Mehta",
-    val traits = arrayOf("FullStack Web Developer", "Android Developer", "React Native Developer")){
+    val traits = arrayOf("FullStack Web Developer", "Android Developer", "React Native Developer")
+    ){
     val brain: Brain? = null
     init {
         val pronouns: String = "He/Him"
