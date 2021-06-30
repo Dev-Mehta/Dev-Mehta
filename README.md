@@ -115,9 +115,10 @@ Kotlin                   1 repo              █░░░░░░░░░░�
  Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
+
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
 - [Make your First Game With Python - Rock, Paper, Scissors](https://simplifiedweb.netlify.app/make-your-first-game-with-python-rock-paper-scissors/)
 - [Day #1 of Learning DSA - Here is What I Learned](https://simplifiedweb.netlify.app/day-1-of-learning-dsa-here-is-what-i-learned/)
