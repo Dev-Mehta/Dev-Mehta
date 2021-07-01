@@ -118,7 +118,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Metrics
-[Metrics](https://metrics.lecoq.io/Dev-Mehta)
+![Metrics](https://metrics.lecoq.io/Dev-Mehta)
 
 ### 🎯 Activity Graph
 ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=Dev-Mehta&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
