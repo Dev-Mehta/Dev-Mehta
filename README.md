@@ -74,20 +74,16 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      13 mins             ███████████████░░░░░░░░░░   60.54% 
-Java                     8 mins              █████████░░░░░░░░░░░░░░░░   38.49% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tejasvini                21 mins             ████████████████████████░   96.31% 
-Santript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-FigmaTry                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,7 +104,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2021
+ Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
