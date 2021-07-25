@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
@@ -104,7 +104,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
