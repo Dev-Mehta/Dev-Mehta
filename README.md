@@ -31,13 +31,13 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-380719%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-351811%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 384 Contributions in the Year 2021
+> 🏆 387 Contributions in the Year 2021
  > 
-> 📦 50.3 kB Used in GitHub's Storage 
+> 📦 50.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,22 +48,22 @@ class Dev: Human(val name: String="Dev Mehta",
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-🌆 Daytime    245 commits    █████████████░░░░░░░░░░░░   51.58% 
-🌃 Evening    179 commits    █████████░░░░░░░░░░░░░░░░   37.68% 
+🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+🌆 Daytime    245 commits    ████████████░░░░░░░░░░░░░   51.26% 
+🌃 Evening    179 commits    █████████░░░░░░░░░░░░░░░░   37.45% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Tuesday      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Wednesday    105 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11% 
-Thursday     94 commits     █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-Friday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Sunday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Tuesday      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
+Wednesday    105 commits    █████░░░░░░░░░░░░░░░░░░░░   21.97% 
+Thursday     94 commits     █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+Friday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Saturday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Sunday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79%
 
 ```
 
@@ -104,7 +104,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
