@@ -37,7 +37,7 @@ class Dev: Human(val name: String="Dev Mehta",
 
 > 🏆 426 Contributions in the Year 2021
  > 
-> 📦 52.8 kB Used in GitHub's Storage 
+> 📦 52.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,7 +104,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
