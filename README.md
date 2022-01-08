@@ -31,19 +31,19 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 7 Contributions in the Year 2022
  > 
-> 📦 68.0 kB Used in GitHub's Storage 
+> 📦 79.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -87,14 +87,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
@@ -104,7 +104,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
