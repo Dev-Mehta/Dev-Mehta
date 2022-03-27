@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -76,17 +76,19 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   0 secs              ███████████████████░░░░░░   76.54% 
-HTML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   23.46%
+Python                   14 mins             ████████████████████████░   99.2% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  14 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-StocksProject            0 secs              █████████████████████████   100.0%
+Unknown Project          13 mins             ███████████████████████░░   94.92% 
+StocksProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+tejasvini-api            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +109,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/03/2022 01:05:03 UTC
+ Last Updated on 27/03/2022 01:10:26 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
