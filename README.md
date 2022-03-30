@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -76,19 +76,19 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████████████████░   99.2% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+Python                   1 hr 36 mins        ███████████████████░░░░░░   76.13% 
+HTML                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             ███████████████████████░░   94.92% 
-StocksProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
-tejasvini-api            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+StocksProject            1 hr 53 mins        ██████████████████████░░░   88.89% 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+tejasvini-api            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0%
+Windows                  2 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 01:12:31 UTC
+ Last Updated on 30/03/2022 01:10:43 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
