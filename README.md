@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158%20Thousand%20lines%20of%20code-blue)
 
@@ -76,18 +76,18 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        ██████████████████░░░░░░░   72.52% 
-Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27%
+Python                   44 mins             ███████████████░░░░░░░░░░   62.43% 
+Text                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98% 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.0%
+VS Code                  1 hr 11 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-StocksProject            2 hrs               █████████████████████████   100.0%
+StocksProject            1 hr 11 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.0%
+Windows                  1 hr 11 mins        █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/04/2022 01:08:08 UTC
+ Last Updated on 07/04/2022 01:12:23 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
