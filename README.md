@@ -39,7 +39,7 @@ class Dev: Human(val name: String="Dev Mehta",
 
 > 🏆 53 Contributions in the Year 2022
  > 
-> 📦 89.2 kB Used in GitHub's Storage 
+> 📦 88.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,17 +76,17 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     4 hrs 51 mins       █████████████████████░░░░   86.46% 
-Python                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
+HTML                     1 hr 22 mins        ███████████████████░░░░░░   75.53% 
+Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47%
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  1 hr 48 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-StocksProject            5 hrs 36 mins       █████████████████████████   100.0%
+StocksProject            1 hr 48 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.0%
+Windows                  1 hr 48 mins        █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +107,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 01:14:40 UTC
+ Last Updated on 18/04/2022 01:23:12 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
