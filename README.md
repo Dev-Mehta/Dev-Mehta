@@ -76,17 +76,16 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 22 mins        ███████████████████░░░░░░   75.53% 
-Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-StocksProject            1 hr 48 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,7 +106,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/04/2022 01:23:12 UTC
+ Last Updated on 21/04/2022 01:20:18 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
