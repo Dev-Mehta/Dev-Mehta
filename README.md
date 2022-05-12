@@ -76,19 +76,16 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   32 mins             ████████████████████████░   97.2% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          28 mins             █████████████████████░░░░   84.12% 
-AlgoAutoStocks           5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.88%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,7 +106,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 01:28:50 UTC
+ Last Updated on 12/05/2022 01:23:58 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
