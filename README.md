@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332%20Thousand%20lines%20of%20code-blue)
 
@@ -76,23 +76,23 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 34 mins       ███████████████░░░░░░░░░░   61.63% 
-Java                     1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   30.38% 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+JavaScript               5 hrs 19 mins       ██████████████████████░░░   89.52% 
+CSS                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Solidity                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-candycrush               3 hrs 1 min         █████████████░░░░░░░░░░░░   52.29% 
-Applets                  1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   31.24% 
-candycrushreact          56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-AppletsExample           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+candycrush               3 hrs 1 min         ████████████░░░░░░░░░░░░░   50.98% 
+nftapp                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   30.07% 
+candycrushreact          56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+mynftapp                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
 
 💻 Operating System: 
-Windows                  5 hrs 47 mins       █████████████████████████   100.0%
+Windows                  5 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 01:25:33 UTC
+ Last Updated on 07/06/2022 01:18:52 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
