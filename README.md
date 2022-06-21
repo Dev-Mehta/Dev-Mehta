@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332%20Thousand%20lines%20of%20code-blue)
 
@@ -76,16 +76,22 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   52 mins             █████████████░░░░░░░░░░░░   52.24% 
+Java                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.88%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DrTarunaSingh            1 hr 4 mins         ████████████████░░░░░░░░░   64.88% 
+DSA                      35 mins             ████████░░░░░░░░░░░░░░░░░   35.12% 
+recursion                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +112,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 01:28:40 UTC
+ Last Updated on 21/06/2022 01:26:38 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
