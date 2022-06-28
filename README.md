@@ -76,18 +76,17 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ██████████████████░░░░░░░   74.89% 
-HTML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.11%
+Python                   11 mins             ██████████████░░░░░░░░░░░   57.37% 
+HTML                     8 mins              ██████████░░░░░░░░░░░░░░░   42.63%
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.0%
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DrTarunaSingh            1 hr 4 mins         ███████████████████░░░░░░   75.7% 
-DrTarunaSingh-master     20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.3%
+DrTarunaSingh-master     20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.0%
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +107,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 01:44:33 UTC
+ Last Updated on 28/06/2022 01:31:57 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
