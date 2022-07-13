@@ -31,7 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332%20Thousand%20lines%20of%20code-blue)
 
@@ -76,16 +76,18 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     16 mins             █████████████████████████   100.0%
+Java                     16 mins             ███████████████████░░░░░░   76.02% 
+Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.98%
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+VS Code                  21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          16 mins             █████████████████████████   100.0%
+Unknown Project          16 mins             ███████████████████░░░░░░   76.02% 
+DrTarunaSingh-master     5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.98%
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.0%
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +108,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2022 01:45:58 UTC
+ Last Updated on 13/07/2022 01:29:54 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
