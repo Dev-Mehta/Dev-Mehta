@@ -29,15 +29,15 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 82 Contributions in the Year 2022
+> 🏆 103 Contributions in the Year 2022
  > 
-> 📦 109.4 kB Used in GitHub's Storage 
+> 📦 109.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,22 +48,22 @@ class Dev: Human(val name: String="Dev Mehta",
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-🌆 Daytime    259 commits    ██████████████░░░░░░░░░░░   57.81% 
-🌃 Evening    145 commits    ████████░░░░░░░░░░░░░░░░░   32.37% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+🌆 Daytime    270 commits    ███████████████░░░░░░░░░░   60.0% 
+🌃 Evening    136 commits    ███████░░░░░░░░░░░░░░░░░░   30.22% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
-Wednesday    107 commits    ██████░░░░░░░░░░░░░░░░░░░   23.88% 
-Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Friday       70 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-Saturday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
+Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
+Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+Wednesday    104 commits    █████░░░░░░░░░░░░░░░░░░░░   23.11% 
+Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
+Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Saturday     98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
 
 ```
 
@@ -74,16 +74,17 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.0%
+Python                   1 hr 2 mins         ████████████████████░░░░░   80.49% 
+HTML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  1 hr 17 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DrTarunaSingh-master     5 mins              █████████████████████████   100.0%
+DrTarunaSingh-master     1 hr 17 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+Windows                  1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +105,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2022 01:32:38 UTC
+ Last Updated on 17/07/2022 01:50:15 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
