@@ -29,7 +29,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267%20Thousand%20lines%20of%20code-blue)
 
@@ -74,17 +74,23 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ████████████████████░░░░░   80.49% 
-HTML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51%
+Python                   57 mins             ████████████░░░░░░░░░░░░░   49.14% 
+C++                      43 mins             █████████░░░░░░░░░░░░░░░░   37.29% 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.0%
+VS Code                  1 hr 56 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DrTarunaSingh-master     1 hr 17 mins        █████████████████████████   100.0%
+DrTarunaSingh-master     1 hr 12 mins        ███████████████░░░░░░░░░░   62.44% 
+Cpp                      42 mins             █████████░░░░░░░░░░░░░░░░   36.8% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+vasuramani               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.0%
+Windows                  1 hr 56 mins        █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +111,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 01:50:20 UTC
+ Last Updated on 20/07/2022 01:29:36 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
