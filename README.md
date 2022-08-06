@@ -37,7 +37,7 @@ class Dev: Human(val name: String="Dev Mehta",
 
 > 🏆 103 Contributions in the Year 2022
  > 
-> 📦 109.6 kB Used in GitHub's Storage 
+> 📦 109.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,18 +74,16 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 5 mins        ███████████████████████░░   94.31% 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Lexical_Analysis         2 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 02:00:43 UTC
+ Last Updated on 06/08/2022 01:22:12 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
