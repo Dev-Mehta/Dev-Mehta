@@ -29,7 +29,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268%20Thousand%20lines%20of%20code-blue)
 
@@ -74,23 +74,23 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.04% 
-JavaScript               1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   35.33% 
-HTML                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Python                   2 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.76% 
+JavaScript               1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   36.15% 
+HTML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 21 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-instasongs               3 hrs 14 mins       ████████████░░░░░░░░░░░░░   50.71% 
-django-wiki              2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.28% 
-AskaDev                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-MusicRecommendation      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.09%
+instasongs               3 hrs 14 mins       █████████████░░░░░░░░░░░░   51.74% 
+django-wiki              1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   30.91% 
+AskaDev                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
+MusicRecommendation      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.0%
+Windows                  4 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 01:46:34 UTC
+ Last Updated on 16/08/2022 01:48:00 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
