@@ -29,7 +29,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268%20Thousand%20lines%20of%20code-blue)
 
@@ -74,19 +74,19 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 58 mins        ██████████████░░░░░░░░░░░   58.03% 
-HTML                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84% 
-Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+JavaScript               59 mins             ██████████░░░░░░░░░░░░░░░   42.78% 
+HTML                     50 mins             █████████░░░░░░░░░░░░░░░░   36.63% 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
 VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-instasongs               3 hrs 14 mins       ███████████████████░░░░░░   79.07% 
-AskaDev                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-MusicRecommendation      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
+instasongs               1 hr 37 mins        █████████████████░░░░░░░░   69.98% 
+AskaDev                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   22.99% 
+MusicRecommendation      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 💻 Operating System: 
 Windows                  2 hrs 18 mins       █████████████████████████   100.0%
@@ -110,7 +110,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 01:48:11 UTC
+ Last Updated on 20/08/2022 01:32:13 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
