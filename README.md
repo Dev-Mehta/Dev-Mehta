@@ -74,22 +74,16 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               59 mins             ██████████░░░░░░░░░░░░░░░   42.78% 
-HTML                     50 mins             █████████░░░░░░░░░░░░░░░░   36.63% 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-instasongs               1 hr 37 mins        █████████████████░░░░░░░░   69.98% 
-AskaDev                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   22.99% 
-MusicRecommendation      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 01:33:34 UTC
+ Last Updated on 22/08/2022 01:31:11 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
