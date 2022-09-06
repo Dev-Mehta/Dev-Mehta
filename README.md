@@ -29,7 +29,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268%20Thousand%20lines%20of%20code-blue)
 
@@ -45,6 +45,48 @@ class Dev: Human(val name: String="Dev Mehta",
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+🌆 Daytime    278 commits    ███████████████░░░░░░░░░░   61.1% 
+🌃 Evening    133 commits    ███████░░░░░░░░░░░░░░░░░░   29.23% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Wednesday    97 commits     █████░░░░░░░░░░░░░░░░░░░░   21.32% 
+Thursday     85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+Saturday     111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.4% 
+Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -62,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 01:58:07 UTC
+ Last Updated on 06/09/2022 01:59:48 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
