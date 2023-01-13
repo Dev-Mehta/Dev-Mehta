@@ -35,58 +35,16 @@ class Dev: Human(val name: String="Dev Mehta",
 
 **🐱 My GitHub Data** 
 
-> 🏆 150 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 118.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 28 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-🌆 Daytime    257 commits    ██████████████░░░░░░░░░░░   57.88% 
-🌃 Evening    137 commits    ███████░░░░░░░░░░░░░░░░░░   30.86% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
-Tuesday      31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Wednesday    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Saturday     107 commits    ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +62,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 01:29:09 UTC
+ Last Updated on 13/01/2023 01:14:21 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
