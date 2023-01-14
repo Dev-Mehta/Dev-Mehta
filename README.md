@@ -45,6 +45,48 @@ class Dev: Human(val name: String="Dev Mehta",
  > 
 > 🔑 14 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+🌆 Daytime    249 commits    ██████████████░░░░░░░░░░░   57.64% 
+🌃 Evening    135 commits    ███████░░░░░░░░░░░░░░░░░░   31.25% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+Tuesday      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Saturday     104 commits    ██████░░░░░░░░░░░░░░░░░░░   24.07% 
+Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -62,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 01:14:21 UTC
+ Last Updated on 14/01/2023 01:07:39 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
