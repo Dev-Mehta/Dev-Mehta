@@ -31,13 +31,13 @@ class Dev: Human(val name: String="Dev Mehta",
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2023
+> 🏆 43 Contributions in the Year 2023
  > 
-> 📦 125.5 kB Used in GitHub's Storage 
+> 📦 126.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,22 +48,22 @@ class Dev: Human(val name: String="Dev Mehta",
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-🌆 Daytime    259 commits    ██████████████░░░░░░░░░░░   58.2% 
-🌃 Evening    138 commits    ███████░░░░░░░░░░░░░░░░░░   31.01% 
+🌞 Morning    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+🌆 Daytime    259 commits    ██████████████░░░░░░░░░░░   57.81% 
+🌃 Evening    138 commits    ███████░░░░░░░░░░░░░░░░░░   30.8% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Wednesday    90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.22% 
-Thursday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Saturday     103 commits    █████░░░░░░░░░░░░░░░░░░░░   23.15% 
-Sunday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
+Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
+Wednesday    90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.09% 
+Thursday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Saturday     106 commits    ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+Sunday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
 
 ```
 
@@ -104,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 01:14:29 UTC
+ Last Updated on 29/01/2023 01:18:47 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
