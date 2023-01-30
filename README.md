@@ -118,11 +118,11 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [Top 10 Must-Have Django&#39;s Third-Party Packages for Web Developers](https://simplifiedweb.netlify.app/top-10-must-have-django-third-party-packages-for-web-developers)
 - [Unlock the Full Potential of Your Django App with these Performance Optimization Techniques](https://simplifiedweb.netlify.app/unlock-full-potential-django-app-performance-optimization-techniques)
 - [How to Create Your Own Git with Python](https://simplifiedweb.netlify.app/how-to-create-your-own-git-with-python/)
 - [Build Scalable and Secure APIs with Django REST Framework](https://simplifiedweb.netlify.app/build-scalable-and-secure-apis-with-django-rest-framework)
 - [The Ultimate Django Cheatsheet: Because Even Ninjas Need a Little Help Sometimes](https://simplifiedweb.netlify.app/the-ultimate-django-cheatsheet-because-even-ninjas-need-a-little-help-sometimes)
-- [Master the Wizardry of Data by Learning Machine Learning - Complete Roadmap for 2023](https://simplifiedweb.netlify.app/master-the-wizardry-of-data-by-learning-machine-learning-complete-roadmap-for-2023)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 <a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
