@@ -31,13 +31,13 @@ class Dev: Human(val name: String="Dev Mehta",
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 49 Contributions in the Year 2023
+> 🏆 60 Contributions in the Year 2023
  > 
-> 📦 126.8 kB Used in GitHub's Storage 
+> 📦 126.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,8 +48,8 @@ class Dev: Human(val name: String="Dev Mehta",
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-🌆 Daytime    257 commits    ██████████████░░░░░░░░░░░   57.11% 
+🌞 Morning    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+🌆 Daytime    248 commits    █████████████░░░░░░░░░░░░   55.11% 
 🌃 Evening    139 commits    ███████░░░░░░░░░░░░░░░░░░   30.89% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 
@@ -59,9 +59,9 @@ class Dev: Human(val name: String="Dev Mehta",
 ```text
 Monday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
 Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-Wednesday    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
-Thursday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Wednesday    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
 Saturday     106 commits    ██████░░░░░░░░░░░░░░░░░░░   23.56% 
 Sunday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44%
 
@@ -104,7 +104,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2023 01:17:15 UTC
+ Last Updated on 04/02/2023 01:11:43 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
