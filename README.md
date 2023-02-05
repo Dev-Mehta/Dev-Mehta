@@ -118,11 +118,11 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [The Importance of Clean Code in Software Engineering](https://simplifiedweb.netlify.app/the-importance-of-clean-code-in-software-engineering/)
 - [Django and Deployment: Best Practices for Deploying Django applications](https://simplifiedweb.netlify.app/django-and-deployment-best-practices-for-deploying-django-applications/)
 - [Common Django Exceptions &amp; How to Approach Them](https://simplifiedweb.netlify.app/common-django-exceptions-and-how-to-approach-them/)
 - [Top 10 Must-Have Django&#39;s Third-Party Packages for Web Developers](https://simplifiedweb.netlify.app/top-10-must-have-django-third-party-packages-for-web-developers)
 - [Unlock the Full Potential of Your Django App with these Performance Optimization Techniques](https://simplifiedweb.netlify.app/unlock-full-potential-django-app-performance-optimization-techniques)
-- [How to Create Your Own Git with Python](https://simplifiedweb.netlify.app/how-to-create-your-own-git-with-python/)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 <a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
