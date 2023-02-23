@@ -31,47 +31,45 @@ class Dev: Human(val name: String="Dev Mehta",
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 79 Contributions in the Year 2023
- > 
 > 📦 128.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 80 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning       62 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌆 Daytime      283 commits       ██████████████░░░░░░░░░░░   56.15 % 
-🌃 Evening      157 commits       ███████░░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌆 Daytime                283 commits         ██████████████░░░░░░░░░░░   56.04 % 
+🌃 Evening                158 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday          30 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Tuesday         36 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Wednesday      110 commits       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Thursday        85 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Friday          83 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Saturday       105 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Sunday          55 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-
+Monday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Wednesday                111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Thursday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -84,7 +82,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,19 +89,19 @@ No Activity Tracked This Week
 ```text
 JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2023 01:09:08 UTC
+ Last Updated on 23/02/2023 01:08:08 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
