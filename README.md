@@ -123,3 +123,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 <a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
 <a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
+
+[![An image of @devmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmehta)](https://holopin.io/@devmehta)
