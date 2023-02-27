@@ -113,10 +113,13 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### 📊 Metrics
 ![Metrics](https://metrics.lecoq.io/Dev-Mehta)
 
-### 🎯 Activity Graph
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=Dev-Mehta&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="vivolscute" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
 - [Simplify your workflow with Pre-Commit Hooks](https://simplifiedweb.netlify.app/simplify-your-workflow-with-pre-commit-hooks/)
@@ -125,7 +128,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 - [Everything you need to know about caching in django](https://simplifiedweb.netlify.app/everything-you-need-to-know-about-caching-in-django/)
 - [Say &quot;Hello World&quot; to Django](https://simplifiedweb.netlify.app/say-hello-world-to-django/)
 <!-- BLOG-POST-LIST:END -->
-<a href="https://instagram.com/djangostaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="djangostaan" height="30" width="30" /></a>
-<a href="https://medium.com/@devbmehta04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devbmehta04" height="30" width="30" /></a>
 
 [![An image of @devmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmehta)](https://holopin.io/@devmehta)
