@@ -124,11 +124,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [Why do you need django signals right now?](https://simplifiedweb.netlify.app/why-do-you-need-django-signals-right-now/)
 - [Simplify your workflow with Pre-Commit Hooks](https://simplifiedweb.netlify.app/simplify-your-workflow-with-pre-commit-hooks/)
 - [Django Model Managers - Make things less complicated](https://simplifiedweb.netlify.app/django-model-managers-make-things-less-complicated/)
 - [Django Queries 101 - Write Efficient Queries](https://simplifiedweb.netlify.app/django-queries-101-write-efficient-queries/)
 - [Everything you need to know about caching in django](https://simplifiedweb.netlify.app/everything-you-need-to-know-about-caching-in-django/)
-- [Say &quot;Hello World&quot; to Django](https://simplifiedweb.netlify.app/say-hello-world-to-django/)
 <!-- BLOG-POST-LIST:END -->
 
 [![An image of @devmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmehta)](https://holopin.io/@devmehta)
