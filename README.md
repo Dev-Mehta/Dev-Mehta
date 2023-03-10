@@ -29,7 +29,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -72,23 +72,22 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.24 % 
-JavaScript               1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Python                   1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JavaScript               1 hr 46 mins        █████████████░░░░░░░░░░░░   53.65 % 
+Markdown                 1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.27 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DjNews                   2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.06 % 
-Blog                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-CSStudies                1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-django-signals-tutorial  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Blog                     1 hr 48 mins        ██████████████░░░░░░░░░░░   54.65 % 
+CSStudies                1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.02 % 
+django-signals-tutorial  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2023 01:14:40 UTC
+ Last Updated on 10/03/2023 01:13:55 UTC
 <!--END_SECTION:waka-->
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
