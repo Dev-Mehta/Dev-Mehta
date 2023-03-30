@@ -43,11 +43,11 @@ class Dev: Human(val name: String="Dev Mehta",
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [How to revert migration in django?](https://simplifiedweb.netlify.app/how-to-revert-migration-in-django/)
 - [Django - CBVs or FBVs?](https://simplifiedweb.netlify.app/django-cbvs-or-fbvs/)
 - [Best Developer Blogs to Follow in 2023](https://simplifiedweb.netlify.app/best-developer-blogs-to-follow-in-2023/)
 - [Are your webapps scalable?](https://simplifiedweb.netlify.app/are-your-webapps-scalable/)
 - [Why do you need django signals right now?](https://simplifiedweb.netlify.app/why-do-you-need-django-signals-right-now/)
-- [Simplify your workflow with Pre-Commit Hooks](https://simplifiedweb.netlify.app/simplify-your-workflow-with-pre-commit-hooks/)
 <!-- BLOG-POST-LIST:END -->
 
 [![An image of @devmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmehta)](https://holopin.io/@devmehta)
