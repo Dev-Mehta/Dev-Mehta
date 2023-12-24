@@ -31,14 +31,7 @@ class Dev: Human(val name: String="Dev Mehta",
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 Metrics
-![Metrics](https://metrics.lecoq.io/Dev-Mehta)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/output/github-contribution-grid-snake.svg">
-</picture>
+![Metrics](/github-metrics.svg)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
