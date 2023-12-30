@@ -1,4 +1,4 @@
-# नमस्ते (Namaste):pray:, I'm Dev Mehta:man_technologist:
+# नमस्ते (Namaste) :pray:, I'm Dev Mehta :man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
 ```kotlin
