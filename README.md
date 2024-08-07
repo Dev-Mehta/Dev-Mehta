@@ -1,39 +1,16 @@
 # नमस्ते (Namaste) :pray:, I'm Dev Mehta :man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
-```kotlin
-package com.github.devmehta.profile
+**"the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do"**
 
-import universe.earth.species.Human
-import universe.earth.species.Human.Brain
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Mehta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
-class Dev: Human(val name: String="Dev Mehta",
-    val traits = arrayOf("FullStack Web Developer", "Android Developer", "React Native Developer")
-    ){
-    val brain: Brain? = null
-    init {
-        val pronouns: String = "He/Him"
-        val canCodeIn = arrayOf("Python", "Java", "Kotlin", "C++", "C", "JavaScript")
-        val askMeAbout = arrayOf("Web Development", "Android Apps", "Django")
-        val technologies = HashMap<String, Array<String>>()
-        technologies.put("mobileApps", arrayOf("Kotlin", "Java", "Django APIs"))
-        technologies.put("frontendWebDevelopment", arrayOf("bootstrap", "React.js", "tailwindcss"))
-        technologies.put("backendWebDevelopment", arrayOf("django", "flask"))
-        technologies.put("databases", arrayOf("PostgreSQL", "MySQL", "Oracle", "SQLite3"))
-        technologies.put("miscellaneous", arrayOf("Selenium", "OpenCV", "Figma", "Adobe XD", "Canva"))
-
-        println("Fun fact: There are 2 ways to write error-free programs, only the 3rd one works")
-    }
-}
-```
 ![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Mehta&count_private=true&show_icons=true&theme=nightowl)
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Mehta&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&frame=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](/github-metrics.svg)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
