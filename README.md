@@ -98,11 +98,11 @@ Lua                      1 repo              █░░░░░░░░░░�
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Mehta&" alt="Dev-Mehta" />
 
 ## Blogs posts<!-- BLOG-POST-LIST:START -->
+- [Building Quick Switch - Fuzzy finding your directories on Windows](https://simplifiedweb.netlify.app/building-quick-switch-fuzzy-find-through-your-directories)
 - [Django Generated Fields](https://simplifiedweb.netlify.app/django-generated-fields)
 - [Can you write FizzBuzz?](https://simplifiedweb.netlify.app/can-you-write-fizzbuzz)
 - [Why I moved to NextJS?](https://simplifiedweb.netlify.app/why-i-moved-to-nextjs)
 - [Design Patterns - Solve common software engineering problems](https://simplifiedweb.netlify.app/design-patterns-solve-common-software-engineering-problems)
-- [How to revert migration in django?](https://simplifiedweb.netlify.app/how-to-revert-migration-in-django)
 <!-- BLOG-POST-LIST:END -->
 
 [![An image of @devmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmehta)](https://holopin.io/@devmehta)
