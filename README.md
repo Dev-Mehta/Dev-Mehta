@@ -10,13 +10,13 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 364.0 kB Used in GitHub's Storage 
+> 📦 364.4 kB Used in GitHub's Storage 
  > 
 > 🏆 192 Contributions in the Year 2024
  > 
@@ -53,22 +53,20 @@ Sunday                   344 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ██████████████████████░░░   89.72 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-gitignore                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   2 hrs 59 mins       ████████████████████████░   94.47 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 55 mins       ████████████████████████░   97.31 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Neovim                   3 hrs 4 mins        ████████████████████████░   97.04 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🐱‍💻 Projects: 
-AlgoAutoStocks           2 hrs 42 mins       ███████████████████████░░   90.53 % 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-StocksProject            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+AlgoAutoStocks           3 hrs 4 mins        ████████████████████████░   97.43 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +86,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2024 01:19:36 UTC
+ Last Updated on 26/11/2024 01:18:53 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
