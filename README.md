@@ -16,7 +16,7 @@ A Full Stack Web Developer and Django Enthusiast
 
 **🐱 My GitHub Data** 
 
-> 📦 363.0 kB Used in GitHub's Storage 
+> 📦 363.3 kB Used in GitHub's Storage 
  > 
 > 🏆 192 Contributions in the Year 2024
  > 
@@ -53,20 +53,16 @@ Sunday                   344 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ███████████████████████░░   93.32 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 15 mins        ████████████████████████░   95.54 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AlgoAutoStocks           1 hr 17 mins        ████████████████████████░   97.78 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +82,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 01:23:15 UTC
+ Last Updated on 10/12/2024 01:22:45 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
