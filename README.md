@@ -10,13 +10,15 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 374.7 kB Used in GitHub's Storage 
+> 📦 375.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -51,9 +53,9 @@ Sunday                   367 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 57 mins       █████████████████████░░░░   84.79 % 
+Python                   3 hrs 57 mins       █████████████████████░░░░   84.68 % 
 YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 netrw                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
@@ -61,8 +63,8 @@ netrw                    4 mins              ░░░░░░░░░░░�
 Neovim                   4 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stocks-notify            4 hrs 13 mins       ███████████████████████░░   90.55 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+stocks-notify            4 hrs 13 mins       ███████████████████████░░   90.43 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 AlgoAutoStocks           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 backend                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
@@ -87,7 +89,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 01:12:41 UTC
+ Last Updated on 18/01/2025 01:10:53 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
