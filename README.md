@@ -10,13 +10,15 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 374.1 kB Used in GitHub's Storage 
+> 📦 374.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -51,20 +53,20 @@ Sunday                   378 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     6 hrs 20 mins       ██████████████████░░░░░░░   71.21 % 
-Python                   2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+HTML                     7 hrs 26 mins       ██████████████████░░░░░░░   72.66 % 
+Python                   2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flow                     8 hrs 54 mins       █████████████████████████   100.00 % 
+Flow                     10 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +86,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 01:15:09 UTC
+ Last Updated on 14/02/2025 01:14:32 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
