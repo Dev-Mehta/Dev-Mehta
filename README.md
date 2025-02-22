@@ -16,7 +16,7 @@ A Full Stack Web Developer and Django Enthusiast
 
 **🐱 My GitHub Data** 
 
-> 📦 377.1 kB Used in GitHub's Storage 
+> 📦 377.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -51,17 +51,16 @@ Sunday                   378 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████░░░░░░░░░░   60.20 % 
-HTML                     13 mins             ██████████░░░░░░░░░░░░░░░   39.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Flow                     34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 01:15:27 UTC
+ Last Updated on 22/02/2025 01:13:21 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
