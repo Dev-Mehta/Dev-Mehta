@@ -16,7 +16,7 @@ A Full Stack Web Developer and Django Enthusiast
 
 **🐱 My GitHub Data** 
 
-> 📦 375.4 kB Used in GitHub's Storage 
+> 📦 375.8 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2025
  > 
@@ -53,16 +53,16 @@ Sunday                   444 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 01:22:38 UTC
+ Last Updated on 08/04/2025 01:20:37 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
