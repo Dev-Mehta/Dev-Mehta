@@ -10,13 +10,13 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 378.4 kB Used in GitHub's Storage 
+> 📦 378.8 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2025
  > 
@@ -53,16 +53,23 @@ Sunday                   444 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             ███████████████████████░░   90.60 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   11 mins             ███████████████████████░░   92.18 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AlgoAutoStocks           11 mins             ███████████████████████░░   90.60 % 
+d360-technology          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +89,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 01:23:15 UTC
+ Last Updated on 16/04/2025 01:23:11 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
