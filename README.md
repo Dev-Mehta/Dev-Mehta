@@ -16,7 +16,7 @@ A Full Stack Web Developer and Django Enthusiast
 
 **🐱 My GitHub Data** 
 
-> 📦 440.9 kB Used in GitHub's Storage 
+> 📦 434.5 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2025
  > 
@@ -82,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 01:39:16 UTC
+ Last Updated on 05/05/2025 01:26:51 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
