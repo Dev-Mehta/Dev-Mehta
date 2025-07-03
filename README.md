@@ -16,7 +16,7 @@ A Full Stack Web Developer and Django Enthusiast
 
 **🐱 My GitHub Data** 
 
-> 📦 628.2 kB Used in GitHub's Storage 
+> 📦 628.6 kB Used in GitHub's Storage 
  > 
 > 🏆 54 Contributions in the Year 2025
  > 
@@ -26,6 +26,45 @@ A Full Stack Web Developer and Django Enthusiast
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                1449 commits        ████████████░░░░░░░░░░░░░   46.21 % 
+🌃 Evening                1323 commits        ███████████░░░░░░░░░░░░░░   42.19 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Tuesday                  614 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Wednesday                428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Thursday                 555 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Saturday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Sunday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -43,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 01:29:10 UTC
+ Last Updated on 03/07/2025 01:28:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
