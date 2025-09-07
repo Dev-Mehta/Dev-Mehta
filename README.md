@@ -10,13 +10,13 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 639.0 kB Used in GitHub's Storage 
+> 📦 639.4 kB Used in GitHub's Storage 
  > 
 > 🏆 57 Contributions in the Year 2025
  > 
@@ -53,16 +53,22 @@ Sunday                   474 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 50 mins        █████████████████████░░░░   85.40 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 2 mins        ████████████████████████░   95.13 % 
+Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coffee-prac              2 hrs 2 mins        ████████████████████████░   95.13 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +88,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2025 01:18:04 UTC
+ Last Updated on 07/09/2025 01:25:00 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
