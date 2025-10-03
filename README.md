@@ -10,13 +10,11 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2037%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 643.8 kB Used in GitHub's Storage 
+> 📦 644.1 kB Used in GitHub's Storage 
  > 
 > 🏆 60 Contributions in the Year 2025
  > 
@@ -26,45 +24,6 @@ A Full Stack Web Developer and Django Enthusiast
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-🌆 Daytime                1470 commits        ████████████░░░░░░░░░░░░░   46.28 % 
-🌃 Evening                1338 commits        ███████████░░░░░░░░░░░░░░   42.13 % 
-🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Tuesday                  628 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 549 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Saturday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Sunday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -82,7 +41,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:18:41 UTC
+ Last Updated on 03/10/2025 01:18:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
