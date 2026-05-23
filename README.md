@@ -10,11 +10,13 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2019%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 643.5 kB Used in GitHub's Storage 
+> 📦 643.7 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2026
  > 
@@ -80,7 +82,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 03:34:27 UTC
+ Last Updated on 23/05/2026 02:52:54 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
