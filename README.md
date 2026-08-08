@@ -10,11 +10,15 @@ A Full Stack Web Developer and Django Enthusiast
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 646.5 kB Used in GitHub's Storage 
+> 📦 646.8 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -24,6 +28,51 @@ A Full Stack Web Developer and Django Enthusiast
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                1535 commits        ████████████░░░░░░░░░░░░░   46.60 % 
+🌃 Evening                1375 commits        ██████████░░░░░░░░░░░░░░░   41.74 % 
+🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Tuesday                  663 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Wednesday                456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Thursday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Friday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 503 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Sunday                   504 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -41,7 +90,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dev-Mehta/Dev-Mehta/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:36:10 UTC
+ Last Updated on 08/08/2026 01:25:59 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 Trophies
